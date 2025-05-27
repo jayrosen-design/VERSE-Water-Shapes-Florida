@@ -5,7 +5,7 @@
 VERSE is a collaborative project with the local community, co-designing virtual reality experiences for practicing real-world skills and promoting inclusivity and understanding.
 Equitable Learning Technology Lab (ELTL) focuses on collaborative opportunities and a critical discourse to enable greater connections with our community to co-design research for equitable and advanced technologies. Our aim is to bolster inclusion and provide solutions to real-world problems with cutting-edge learning technologies
 
-This is a irtual tour of the **Water Shapes Florida** exhibit from the Florida Museum of Natural History. This immersive experience allows you to explore the fascinating ways water has shaped Florida's environment and ecosystems. The tour is available in both **English** and **Spanish**. It can be viewed on mobile, tablet, desktop, and in VR, utilizing zoom functions and selection for interaction. Throughout the experience, an option to "Go back to the lobby" is generally available.
+This is a virtual tour of the **Water Shapes Florida** exhibit from the Florida Museum of Natural History. This immersive experience allows you to explore the fascinating ways water has shaped Florida's environment and ecosystems. The tour is available in both **English** and **Spanish**. It can be viewed on mobile, tablet, desktop, and in VR, utilizing zoom functions and selection for interaction. Throughout the experience, an option to "Go back to the lobby" is generally available.
 
 Currently, the Florida Museum of Natural History is undergoing renovations and is expected to reopen in 2026. This virtual tour offers a unique opportunity to interact with and learn from the exhibit's rich content during this period.
 
